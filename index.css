@@ -1,0 +1,56 @@
+h2 {
+    color: blue;
+}
+#mar{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+#profileimage{
+    margin: 20PX;
+}
+#details
+{
+    color: whitesmoke;
+    margin-left: 10px;
+    width: 700px;
+    height: 200px;   
+
+ }
+#pro{
+
+    display: inline-flex;
+    background-color: rgba(23, 23, 24, 0.623);
+    width: 100%;
+}
+ #contact
+ {
+    
+    margin-top: 40px;
+    width: 400px;
+    color: blue;
+ }
+ #icon{
+
+    padding: 10px;
+    height: 200px;
+    max-width: 100%;
+ }
+ #top{
+    display: inline-flex;
+    background-color:black;
+    width: 100%;
+ }
+ #about{
+    background-color: black;
+    margin-top: 80px;
+    margin-left: 350px;
+    margin-right: 50px;
+    padding: 10px;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ #full{
+    background-color: rgb(29, 27, 27);
+ }
